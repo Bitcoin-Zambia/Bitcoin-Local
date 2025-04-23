@@ -10,6 +10,6 @@ Goals:
 - Support community reviewers to ensure linguistic and cultural accuracy
 - Encourage adoption and understanding of Bitcoin through language inclusivity
 
-Rerouces:
+Resources:
 
 - [Bantu Bitcoin – Podcast](https://bantubitcoin.substack.com/): A Bitcoin-only education podcast from rural Zambia, in Bemba and English. “Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mundimi ishapusana; ici ni mu icibemba. Mwaisenipo mukwai bonse!
