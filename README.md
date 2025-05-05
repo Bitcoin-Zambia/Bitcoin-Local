@@ -12,4 +12,6 @@ Goals:
 
 Resources:
 
+[Bemba](Bemba.html)
+
 - [Bantu Bitcoin – Podcast](https://bantubitcoin.substack.com/): A Bitcoin-only education podcast from rural Zambia, in Bemba and English. “Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mundimi ishapusana; ici ni mu icibemba. Mwaisenipo mukwai bonse!
